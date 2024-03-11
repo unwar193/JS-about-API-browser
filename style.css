@@ -1,0 +1,11 @@
+.btn {
+    padding: 8px 15px;
+}
+
+.divEl {
+    margin: 50px auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
